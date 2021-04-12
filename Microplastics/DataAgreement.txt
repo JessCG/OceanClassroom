@@ -1,0 +1,10 @@
+The data available here are intended for scholarly use by the academic research community, with the express understanding that data users will properly acknowledge the originating investigator. Use or reproduction of any material herein for any commercial or redistribution purposes is prohibited without prior written permission from the responsible party.
+
+Data collected under the auspices of the California Current Ecosystem (CCE) LTER are available to the public after primary publication, or at most two years after the completion of the study unless proprietary restrictions are warranted. As a member of the Long Term Ecological Research Network, CCE (and users of its data) also abide by the LTER Network Data Policies. Use of CCE LTER data, or data funded agencies and produced by researcher personnel independent of CCE LTER but included in this catalog, is subject to acceptance of the following conditions:
+
+    The user of the data agrees to contact the data owner(s) prior to publishing.
+    The user agrees to cite research projects associated with the dataset in all publications that use data from this catalog.
+    The user agrees to send the full citation of any publication using CCE LTER data to ccelter-im@ucsd.edu
+    Users are prohibited from selling or redistributing any data from this catalog
+    Extensive efforts are made to ensure that online data are accurate and up to date, but data owners or associated projects will not take responsibility for any errors that may exist.
+    Any violation of the terms of this agreement will result in immediate forfeiture of the data and loss of access privileges to other datasets in this catalog
